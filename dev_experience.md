@@ -5,7 +5,7 @@ permalink: /about/dev-experience
 ---
 ## Навыки
 |Уровень|Название|
-|:-|:-|:-|
+|:-|:-|
 |Уверенно|Docker, Python, Linux, JS, CSS, CICD|
 |Неуверенно|kubernetes|
 |Знаю теорию|Системный дизайн|

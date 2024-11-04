@@ -4,6 +4,7 @@ title: "Рябыкин Илья. Опыт в разработке"
 permalink: /about/dev-experience
 ---
 ## Навыки
+
 | Уровень            | Название                             |
 |:-------------------|:-------------------------------------|
 | Уверенно           | Docker, Python, Linux, JS, CSS, CICD |
@@ -11,39 +12,6 @@ permalink: /about/dev-experience
 | Знаю теорию        | Системный дизайн                     |
 | Устаревшие знания  | HTML, Vue                            |
 | Не сильная сторона | Алгоритмы                            |
-
-| head1        | head two          |
-|:-------------|:------------------|
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
-
-## Наывки
-| илья        | илья          |
-|:-------------|:------------------|
-| илья           | илья |
-| илья | илья   |
-| илья           | илья      |
-| илья           | илья |
-
-## test
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-## test
-
-| Уровень            | Название                             | three |
-|:-------------------|:-------------------------------------|:------|
-| Уверенно           | Docker, Python, Linux, JS, CSS, CICD | nice  |
-| Неуверенно         | kubernetes                           | nice  |
-| Знаю теорию        | Системный дизайн                     | nice  |
-| Устаревшие знания  | HTML, Vue                            | nice  |
-| Не сильная сторона | Алгоритмы                            | nice  |
 
 ## Мой опыт разработки
 <a id="SIBUR"></a>

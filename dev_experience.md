@@ -12,6 +12,13 @@ permalink: /about/dev-experience
 |Устаревшие знания|HTML, Vue|
 |Не сильная сторона|Алгоритмы|
 
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 ## Мой опыт разработки
 
 <a id="SIBUR"></a>

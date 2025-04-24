@@ -7,9 +7,9 @@ permalink: /about/dev-experience
 
 | Уровень            | Название                             |
 |:-------------------|:-------------------------------------|
-| Уверенно           | Docker, Python, Linux, CICD |
-| Практикую         | kubernetes, ML                           |
-| Знаю теорию        | Системный дизайн                     |
+| Уверенно           | Docker, Python, Linux, CICD, LLM |
+| Практикую         | kubernetes, RAG                           |
+| Знаю теорию        | Системный дизайн, MCP, A2A                     |
 | Устаревшие знания  | HTML, JS, CSS, Vue                            |
 | Не сильная сторона | Алгоритмы                            |
 
@@ -21,8 +21,8 @@ permalink: /about/dev-experience
 ## Мой опыт разработки
 <a id="pet"></a>
 ### Pet-проекты | разрабатываю с ИИ на Python + Django опционально
-- бот [tt_sound](http://t.me/tt_sound_bot) для обмена inline голосовыми звуками из тиктока
-- бот ryabykin_bot ассистент с различными AI-коннекторами: openai, llama, yandex, deepseek. через telethon сбор информации из чатов, обработка данных, анализ медиа. [транскрипция встреч](https://github.com/RyabykinIlya/transcriber_app) и формирование протоколов. два микросервиса для бота и транскипции, один монолит на Django для хранения и управления данными
+- бот [@tt_sound](http://t.me/tt_sound_bot) для обмена inline голосовыми звуками из тиктока
+- бот [@ryabykin_bot](http://t.me/ryabykin_bot) ассистент с различными AI-коннекторами: openai, llama, yandex, deepseek. через telethon сбор информации из чатов, обработка данных, анализ медиа. [транскрипция встреч](https://github.com/RyabykinIlya/transcriber_app) и формирование протоколов. два микросервиса для бота и транскипции, один монолит на Django для хранения и управления данными
 
 <a id="SIBUR"></a>
 ### Сибур Диджитал | Разработчик Siebel CRM, 07.2019 — 09.2021
